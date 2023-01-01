@@ -32,6 +32,21 @@ Awesome collection of learning materials to learn Discre Math.
 
 - :book: [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by [Igal Tabachnik](https://github.com/hmemcpy)
 
+## Combinatorics and counting
+
+( _combinatorics_ )
+
+- :mortar_board: :movie_camera: ( _basic_ ) [Discrete Math I](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz) by [Kimberly Brehm](https://www.youtube.com/@SawFinMathematics)
+- :mortar_board: :movie_camera: [Discrete Math II](https://www.youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ) by [Kimberly Brehm](https://www.youtube.com/@SawFinMathematics)
+- :mortar_board: :movie_camera: ( _advanced_ ) [Combinatorics](https://www.youtube.com/playlist?list=PLiR7fd-rXGgjurtwz5Rw7tKuUPYrvpi8M) by [Sebi Cioaba](https://www.youtube.com/@brili)
+- :mortar_board: :movie_camera: ( _basic_ ) [Counting Principles and Permutation with Numbers](https://www.youtube.com/playlist?list=PLJ-ma5dJyAqqaK4dB7nIZa444qvtRLfv2) by [Anil Kumar](https://www.youtube.com/@MathematicsTutor)
+
+## Probability Theory and Statistics
+
+- :mortar_board: :movie_camera: [Linear Regression and Linear Models](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU) by [Josh Starmer](https://www.youtube.com/@statquest)
+- :mortar_board: :movie_camera: [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) by [Josh Starmer](https://www.youtube.com/@statquest)
+- :mortar_board: :movie_camera: [Statistics and Data Analysis with Google Sheets](https://www.youtube.com/playlist?list=PLjPbBibKHH1_EZ3kcJFTXDORc6mrryUER) by [Jalayer Academy](https://www.youtube.com/@rdjalayer)
+
 ## Unsorted
 
 - :movie_camera: [Sysyem cok](http://www.mathnet.ru/php/presentation.phtml?option_lang=rus&presentid=9545)
