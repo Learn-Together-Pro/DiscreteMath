@@ -6,6 +6,11 @@ Key concepts of Discrete Math
 
 <!-- - []() by []() ( _:movie_camera:_ ) -->
 
+## Geneal
+
+Boolean
+: ...
+
 <!-- ## Architecture
 
 SOA ~ Service-oriented architecture
