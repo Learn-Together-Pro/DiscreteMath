@@ -50,6 +50,7 @@ Awesome collection of learning materials to learn Discre Math.
 
 - :movie_camera: - video material
 - :page_facing_up: - reading
+- :page_facing_up: - a book
 - __:pirate_flag:__ - non-english
 - :mortar_board: - online course with or without feedback
 - :chart_with_upwards_trend: - cheetsheets
