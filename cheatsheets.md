@@ -19,3 +19,7 @@
 ## Warshall's Algorithm
 
 ![Bayes in Odds](./cheatsheet/warshalls_closure.png)
+
+## Curve Continuity
+
+![Curve Continuity](./cheatsheet/curve_continuity.jpg)
