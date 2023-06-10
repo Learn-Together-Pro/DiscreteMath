@@ -19,15 +19,3 @@
 ## Warshall's Algorithm
 
 ![Bayes in Odds](./cheatsheet/warshalls_closure.png)
-
-## Curve Continuity
-
-![Curve Continuity](./cheatsheet/curve_continuity.jpg)
-
-## Curves Comparison
-
-![Curves Comparisony](./cheatsheet/curves_comparison.jpg)
-
-## Curves Equations
-
-![Curves Equations](./cheatsheet/curves_equations.jpg)
