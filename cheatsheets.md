@@ -1,4 +1,4 @@
-# Cheatsheets of Discrete Math.
+# Cheatsheets for Discrete Math.
 
 <!-- [:arrow_down: Tags legend](#tags-legend) at the end of the page. -->
 

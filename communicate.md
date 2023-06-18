@@ -1,6 +1,6 @@
 # Learn Logic Together
 
-Awesome collection of learning materials to learn Logic.
+Awesome collection of learning materials to master Logic.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 

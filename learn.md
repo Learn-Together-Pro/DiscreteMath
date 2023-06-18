@@ -1,6 +1,6 @@
-# Learn Discrete Math
+# :mortar_board: Learn Discrete Math
 
-Awesome collection of learning materials to learn Discre Math.
+Awesome collection of learning materials to master Discre Math.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
@@ -9,7 +9,7 @@ Awesome collection of learning materials to learn Discre Math.
 
 ## Basic on Logic
 
-( _logic_ ) ( _basic_ )
+( _logic_ ) ( _introductory_ )
 
 - :star: :mortar_board: :movie_camera: [Logic 101](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on) by [William Spaniel](https://www.youtube.com/@Gametheory101)
 - :star: :mortar_board: :movie_camera: [Discrete Mathematics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3) by [Neso Academy](https://www.youtube.com/@nesoacademy)
@@ -36,10 +36,10 @@ Awesome collection of learning materials to learn Discre Math.
 
 ( _combinatorics_ )
 
-- :mortar_board: :movie_camera: ( _basic_ ) [Discrete Math I](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz) by [Kimberly Brehm](https://www.youtube.com/@SawFinMathematics)
+- :mortar_board: :movie_camera: ( _introductory_ ) [Discrete Math I](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz) by [Kimberly Brehm](https://www.youtube.com/@SawFinMathematics)
 - :mortar_board: :movie_camera: [Discrete Math II](https://www.youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ) by [Kimberly Brehm](https://www.youtube.com/@SawFinMathematics)
 - :mortar_board: :movie_camera: ( _advanced_ ) [Combinatorics](https://www.youtube.com/playlist?list=PLiR7fd-rXGgjurtwz5Rw7tKuUPYrvpi8M) by [Sebi Cioaba](https://www.youtube.com/@brili)
-- :mortar_board: :movie_camera: ( _basic_ ) [Counting Principles and Permutation with Numbers](https://www.youtube.com/playlist?list=PLJ-ma5dJyAqqaK4dB7nIZa444qvtRLfv2) by [Anil Kumar](https://www.youtube.com/@MathematicsTutor)
+- :mortar_board: :movie_camera: ( _introductory_ ) [Counting Principles and Permutation with Numbers](https://www.youtube.com/playlist?list=PLJ-ma5dJyAqqaK4dB7nIZa444qvtRLfv2) by [Anil Kumar](https://www.youtube.com/@MathematicsTutor)
 
 ## Probability Theory and Statistics
 
@@ -65,7 +65,7 @@ Awesome collection of learning materials to learn Discre Math.
 
 - :movie_camera: - video material
 - :page_facing_up: - reading
-- :page_facing_up: - a book
+- :book: - a book
 - __:pirate_flag:__ - non-english
 - :mortar_board: - online course with or without feedback
 - :chart_with_upwards_trend: - cheetsheets
@@ -73,4 +73,4 @@ Awesome collection of learning materials to learn Discre Math.
 - ( _collection_ ) - other awesome collections
 - ( _logic_ ) - logic
 - ( _advanced_ ) - advanced
-- ( _basic_ ) - basic
+- ( _introductory_ ) - basic
